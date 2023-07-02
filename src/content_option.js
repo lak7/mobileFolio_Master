@@ -1,60 +1,59 @@
 const logotext = "LAKSHAY";
 const meta = {
     title: "Lakshay Gupta",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    description: "I’m Lakshay Gupta _Full stack devloper",
 };
 
 const introdata = {
     title: "I’m Lakshay Gupta",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop games",
+        first: "DREAM",
+        second: "CODE",
+        third: "CREATE",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "I develope games and web applications",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    aboutme: "I'm an software developer specializing in game and web development. My expertise spans various programming languages, including TypeScript and JavaScript, as well as C# with Unity and C++ with Unreal Engine. With a deep understanding of these technologies, I have a track record of creating highly interactive and visually stunning games. In web development, I excel in using frameworks like React and Node.js to build robust and scalable applications.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Open Source Java  Developer",
+        where: "JabRef",
+        date: "February, 2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
-    },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+        jobtitle: "Game Dev Intern",
+        where: "IDZ Digital",
+        date: "April, 2023",
+    }   
 ];
 
 const skills = [{
-        name: "Python",
+        name: "Java",
         value: 90,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "Unity",
+        value: 90,
     },
     {
-        name: "Javascript",
-        value: 80,
+        name: "Web Development",
+        value: 85,
     },
     {
         name: "React",
-        value: 60,
+        value: 80,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "Prompt Engineer",
+        value: 70,
+    },
+    {
+        name: "Backend Development",
+        value: 60,
     },
 ];
 
@@ -72,73 +71,23 @@ const services = [{
     },
 ];
 
-const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+const dataportfolio = [
+    {
+        img: "https://imgtr.ee/images/2023/07/02/442e9da9194625ac1abf39517abe959a.png",
+        description: "Promptverse is a dynamic platform that empowers users to share and explore an extensive collection of AI-generated prompts.",
+        link: "http://promptverse.thelakshay.com/",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+        img: "https://imgtr.ee/images/2023/07/02/9a3a270f4ffdf6728d35168b53246948.png",
+        description: "Crafted with the powerful Unity engine and meticulously coded in C#, this awe-inspiring game stands as a faithful replication of the beloved Plants vs. Zombies franchise.",
+        link: "https://laks07.itch.io/glitch-garden",
+    }
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "lakshaygupta2511@gmail.com",
+    YOUR_FONE: "+91 7678443876",
+    description: "",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
