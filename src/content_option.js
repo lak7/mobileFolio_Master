@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "abit about my self",
-    aboutme: "I'm an software developer specializing in game and web development. My expertise spans various programming languages, including TypeScript and JavaScript, as well as C# with Unity and C++ with Unreal Engine. With a deep understanding of these technologies, I have a track record of creating highly interactive and visually stunning games. In web development, I excel in using frameworks like React and Node.js to build robust and scalable applications.",
+    aboutme: "I am a versatile developer proficient in a wide range of technologies, including HTML, CSS, React, Unity, and C#. With a specialization in game development and web development, I am currently pursuing a B.Tech in IT from BVCOE. From crafting visually appealing and responsive websites using React or NextJS to creating immersive gaming experiences using Unity and C#, my technical skills enable me to bring dynamic and engaging projects to life.",
 };
 const worktimeline = [{
         jobtitle: "Open Source Java  Developer",
